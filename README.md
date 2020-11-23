@@ -19,9 +19,9 @@ For each model, we have a specific vision in mind:
 
 Blogger:
 
-1. Users should be able to create a new blogger
+<!-- 1. Users should be able to create a new blogger
  	- Bloggers should have unique names and ages above 0, and their bio should be over 30 characters long.
-2. Users should be able to see the profile page of a blogger. On this page, a user should see:
+2. Users should be able to see the profile page of a blogger. On this page, a user should see: -->
 	- The total likes on all of that blogger's posts
 	- A link to that blogger's featured post (the post with the most likes)
 	- **BONUS** A list of that user's top 5 most written about destinations (the destinations with the most posts)
